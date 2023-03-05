@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MagickClickOnce", "MagickClickOnce\MagickClickOnce.csproj", "{4A07D0A2-EBE6-4617-BD3D-854982934CAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A07D0A2-EBE6-4617-BD3D-854982934CAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A07D0A2-EBE6-4617-BD3D-854982934CAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A07D0A2-EBE6-4617-BD3D-854982934CAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A07D0A2-EBE6-4617-BD3D-854982934CAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09EF72CB-41D7-4A22-A3EF-3DD5032E2A81}
+	EndGlobalSection
+EndGlobal
